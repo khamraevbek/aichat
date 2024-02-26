@@ -1,2 +1,2 @@
-# aichat
-GPT4Free chat
+# chatbot
+This is a chatbot app.
